@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EnzoL_</h1>
-<h3 align="center">A passionate programmer from Argetina</h3>
+<h3 align="center">A passionate programmer from Argentina</h3>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/EnzoLy/portfolio-react)
 
