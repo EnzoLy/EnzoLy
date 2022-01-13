@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS and Firebase**
 
-- 👨‍💻 All of my projects are available at [portfolio-react-enzoly.vercel.app/](portfolio-react-enzoly.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/EnzoLy/portfolio-react](https://github.com/EnzoLy/portfolio-react/)
 
 - 📫 How to reach me **loyolaenzo90@gmail.com**
 
