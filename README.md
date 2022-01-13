@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **NextJS and Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EnzoLy/portfolio-react](https://github.com/EnzoLy/portfolio-react/)
-
 - 📫 How to reach me **loyolaenzo90@gmail.com**
 
 - ⚡ Fun fact **I love cats**
