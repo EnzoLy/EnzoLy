@@ -27,7 +27,7 @@
   <br><br>
   <strong>Frameworks & Libraries:</strong>
   <br>
-  Spring Boot, Netty
+  Spring Boot, Netty, React, NextJS
   <br><br>
   <strong>Databases & Caching:</strong>
   <br>
