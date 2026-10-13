@@ -1,47 +1,41 @@
-<h1 align="center">Hello, I'm EnzoL_ 👋</h1>
-<h3 align="center">Backend Developer | Java Specialist | System Architect</h3>
-
-<p align="center">
-  Passionate about building scalable backend systems and crafting efficient solutions using modern Java technologies. Based in Argentina, I focus on creating reliable, high-performance APIs and backend services.
-</p>
-
-- 🔭 Currently developing [My Portfolio](https://github.com/EnzoLy/portfolio-react) to showcase my backend expertise and project contributions.
-
-- 🛠️ Specializing in **Java 17**, **Spring Boot**, and **Reactive Programming** to deliver clean, maintainable code for large-scale applications.
-
-- 💡 Constantly improving my skills in **Microservices Architecture**, **API Development**, and **Database Optimization** with tools like **MongoDB** and **Redis**.
-
-- 🚀 Learning new backend technologies such as **Kotlin Multiplatform** to expand my capabilities across different platforms.
-
-- ⚙️ Working on implementing **secure communication** protocols and **distributed systems**.
-
-- 📫 Feel free to reach out via email: **loyolaenzo90@gmail.com**
-
-- 🧠 Fun fact: I'm always seeking ways to optimize systems and love experimenting with custom solutions for Minecraft server management.
-
-<h3 align="left">Technologies I Work With:</h3>
-<p align="left">
-  <strong>Programming Languages:</strong> 
-  <br>
-  Java (Primary), Kotlin, JavaScript
-  <br><br>
-  <strong>Frameworks & Libraries:</strong>
-  <br>
-  Spring Boot, Netty, React, NextJS
-  <br><br>
-  <strong>Databases & Caching:</strong>
-  <br>
-  MongoDB, Redis, PostgreSQL, MySQL
-  <br><br>
-  <strong>DevOps & Tools:</strong>
-  <br>
-  Docker, Jenkins, Git, Linux
-  <br><br>
-  <strong>Other Relevant Tools:</strong>
-  <br>
-  REST, GraphQL
-</p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/EnzoL_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="EnzoL_" /></a></p><br><br>
+# Hi, I'm Enzo 👋
+ 
+**Backend developer · Java & Spring Boot · Minecraft networks**
+La Pampa, Argentina (UTC-3) · Open to remote backend roles
+ 
+I've spent 10 years building Java systems for Minecraft networks — from Spigot/Paper plugins to full multi-server infrastructure — and the last few years leading backend for real-time platforms. I like problems where state has to stay in sync across many servers, the main thread can't block, and everything has to hold up at peak load.
+ 
+## Highlights
+ 
+- **3,000+ concurrent players** on a network I led backend for, with **1,000+ on a single server** with a limited world
+- **Team lead for 3 developers**: architecture, code reviews, Git workflow and coding standards
+- **~20% performance gain** after refactoring bottleneck subsystems for horizontal scaling
+- **AI incident triage**: console errors and TPS/network lag spikes go through MCP to an AI agent with context of the repos and servers. It attaches Spark profiler and memory data, finds the likely cause and opens a ticket automatically
+## What I build
+ 
+- **Distributed backends**: cross-server state sync, messaging and event processing with Redis (pub/sub, sharding, TTL), MongoDB and MySQL
+- **APIs and services**: Spring Boot REST APIs, microservices, shared libraries for logging, metrics and configuration
+- **Minecraft infrastructure**: Velocity proxies, Paper/Spigot plugins, NMS and packets, custom entity AI, async pathfinding
+- **Ops**: Docker, Linux server hardening, monitoring and automation
+## Featured projects
+ 
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [RedisManager](https://github.com/EnzoLy/RedisManager) | Lightweight Redis connection and packet-handling library for inter-server communication | Java, Redis |
+| **Prisma Network** *(private, walkthrough on request)* | My own network: Spring Boot player-profile API, distributed party system behind Velocity, mob arena with custom boss AI and async pathfinding, 1.8 PvP bots with NMS | Java 21, Spring Boot, Redis, MongoDB, Velocity, Paper |
+| [minecraft-roguelike](https://github.com/EnzoLy/minecraft-roguelike) | Roguelike gameplay mod | Java, Fabric |
+| [Hotbar](https://github.com/EnzoLy/Hotbar) | Hotbar utilities for Spigot servers | Java, Spigot |
+ 
+## Stack
+ 
+**Languages:** Java · Kotlin · Python · TypeScript · JavaScript
+**Backend:** Spring Boot · Netty · REST · GraphQL · Protobuf
+**Data:** Redis · MongoDB · MySQL · PostgreSQL
+**Infra:** Docker · Linux · Git · Maven · Gradle · Jenkins
+**Minecraft:** Paper · Spigot · Velocity · Fabric · NMS
+ 
+## Contact
+ 
+📫 contact@enzoloyola.com · 🌐 [enzoloyola.com](https://enzoloyola.com) · 💼 [LinkedIn](https://linkedin.com/in/enzoloyola)
+ 
+Spanish (native) · English (intermediate)
